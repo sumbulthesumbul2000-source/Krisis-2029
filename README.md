@@ -1,7 +1,4 @@
 # Prediksi Krisis Ekonomi 2029: Bayangan 1929?
-
-![NASA Logo](https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg)
-
 ---
 
 ## Pendahuluan — Mungkinkah 2029 Mengulang 1929?
