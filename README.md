@@ -1,5 +1,5 @@
 # Prediksi Krisis Ekonomi 2029: Bayangan 1929?
----
+
 
 ## Pendahuluan — Mungkinkah 2029 Mengulang 1929?
 
