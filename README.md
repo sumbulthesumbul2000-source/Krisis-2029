@@ -7,11 +7,11 @@ Krisis besar tahun 1929–1933 (Great Depression) sering dipakai sebagai **patok
 
 Pada 2024–2025 dunia menghadapi serangkaian kerentanan yang berbeda dari era 1920-an, tetapi beberapa *jalur* keterkaitan krisis tetap relevan: **arus hutang publik dan swasta yang sangat tinggi**, tekanan pada valuasi aset, ketegangan perdagangan dan geopolitik, inflasi yang persisten yang memaksa bank sentral mempertahankan suku bunga tinggi, serta disrupsi struktural dari teknologi (termasuk AI) yang dapat mengubah pasar tenaga kerja secara cepat.
 
-> **Intinya:** 2029 bukanlah 1929 secara otomatis, namun kombinasi kondisi saat ini bisa menciptakan skenario di mana guncangan lokal cepat meluas menjadi krisis global.
+
 
 ---
 
-## Bab Pembahasan: Latar Belakang Krisis 1929  
+##Latar Belakang Krisis 1929  
 
 Krisis ekonomi 1929 yang kemudian berkembang menjadi **Great Depression** masih dianggap sebagai salah satu guncangan finansial terbesar dalam sejarah modern.  
 
@@ -29,7 +29,7 @@ Krisis ekonomi 1929 yang kemudian berkembang menjadi **Great Depression** masih 
 4. **Dampak Global**  
    Krisis menyebar ke Eropa dan Asia. Proteksionisme (contohnya tarif Smoot-Hawley 1930) memperparah keadaan.  
 
-### Pertanyaan Reflektif  
+### Pertanyaan
 
 - Apakah **euforia pasar saham dan penggunaan leverage berlebihan** di 1929 mirip dengan fenomena kripto atau saham teknologi sekarang?  
 - Apakah **globalisasi finansial modern** membuat krisis lebih cepat menyebar dibanding era 1930-an?  
@@ -37,7 +37,7 @@ Krisis ekonomi 1929 yang kemudian berkembang menjadi **Great Depression** masih 
 
 ---
 
-## Bab Pembahasan: Kondisi Era Sekarang dan “Cocokologi” Menuju 2029  
+## Kondisi Era Sekarang dan “Cocokologi” Menuju 2029  
 
 Membaca sejarah 1929 menimbulkan rasa deja vu ketika melihat kondisi global sekarang.  
 
@@ -49,9 +49,9 @@ Membaca sejarah 1929 menimbulkan rasa deja vu ketika melihat kondisi global seka
 - **Inflasi & Suku Bunga Tinggi**: Membebani investasi dan risiko default.  
 - **Disrupsi Teknologi & AI**: Potensi menciptakan ketidakstabilan sosial seperti radio & mobil di 1920-an.  
 
-### Cocokologi: 1929 vs 2029  
+### Kesamaan : 1929 vs 2029  
 
-| Aspek              | 1929                          | Era Sekarang (2020-an)            | Cocokologi                           |
+| Aspek              | 1929                          | Era Sekarang (2020-an)            | Kesamaan                          |
 |--------------------|-------------------------------|------------------------------------|---------------------------------------|
 | **Utang**          | Leverage individu & bank tinggi | Utang negara & korporasi global    | Sama-sama beban finansial berlebih    |
 | **Pasar Aset**     | Spekulasi saham margin        | Kripto, saham AI, properti bubble | Sama-sama gelembung optimisme         |
@@ -62,7 +62,7 @@ Membaca sejarah 1929 menimbulkan rasa deja vu ketika melihat kondisi global seka
 
 ---
 
-## Bab Prediksi: Skenario Krisis Ekonomi 2029  
+## Skenario Krisis Ekonomi 2029  
 
 ### 1. **Best Case Scenario — “Soft Landing”**  
 - Pertumbuhan melambat tapi stabil.  
@@ -91,9 +91,7 @@ Membaca sejarah 1929 menimbulkan rasa deja vu ketika melihat kondisi global seka
 
 📌 Dunia masuk **krisis multi-dimensi** dan butuh lebih dari satu dekade untuk pulih.  
 
----
-
-## Penutup — “Di Mana Ada Kejayaan, Di Situ Ada Kehancuran”  
+---  
 
 Sejarah ekonomi dunia mengajarkan satu hal: **setiap puncak kejayaan selalu menyimpan benih kehancuran.** Tahun 1929 adalah buktinya, dan 2029 mungkin menjadi ujian berikutnya.  
 
@@ -105,3 +103,4 @@ Pada akhirnya, **di mana ada kejayaan, di situ ada kehancuran**. Dan di balik ke
 
 ## Tags  
 `#Ekonomi` `#Krisis2029` `#KonspirasiEkonomi` `#GreatDepression` `#AI` `#Geopolitik`
+
